@@ -4,7 +4,7 @@
     <!-- Java -->
     <a target="blank"><img align="center" src="https://img.shields.io/badge/Made%20with-Java-orange?style=for-the-badge&logo=Java" alt="falyrion"/></a>
     <!-- Spigot -->
-    <a href="https://www.spigotmc.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Made%20for-spigot-FF6F00?style=for-the-badge" alt="falyrion"/></a>
+    <a href="https://papermc.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Made%20for-paper-FF6F00?style=for-the-badge" alt="falyrion"/></a>
     <!-- Downloads -->
     <a href="https://www.spigotmc.org/resources/advanced-armor-stands.38513/" target="blank"><img align="center" src="https://img.shields.io/badge/Downloads-54,108-ED8B00?style=for-the-badge" alt="falyrion"/></a>
 </p>
@@ -48,7 +48,6 @@ Just stand next to the armor stand you want to modify and type the command `/aa`
 # Dependencies
 
 **!!Please note that this fork only supports Paper 1.19+.!!**
-This plugin was made for Spigot v.1.17 and later versions.
 
 The lastest Version `1.18.0` of this plugin requires java `17` or higher
 
