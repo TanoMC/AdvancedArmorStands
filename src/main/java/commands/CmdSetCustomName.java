@@ -2,6 +2,7 @@ package commands;
 
 import com.falyrion.aa.AdvancedArmorStandsMain;
 import com.falyrion.aa.AdvancedArmorStandsMain.CommandInterface;
+import net.kyori.adventure.text.minimessage.MiniMessage;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
@@ -28,7 +29,7 @@ public class CmdSetCustomName implements CommandInterface {
                         if (!AdvancedArmorStandsMain.getInstance().canChange(armorstand, player)) {
                             continue;
                         }
-                        armorstand.setCustomName(customName);
+                        armorstand.customName(MiniMessage.miniMessage().deserialize(customName));
                         armorstand.setCustomNameVisible(true);
                     }
                 }
