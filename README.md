@@ -11,7 +11,7 @@
 
 # Advanced Armor Stands
 
-This is a plugin for Minecraft-CraftBukkit/ Spigot, adding more functionality for armor stands.
+This is a plugin for Paper, adding more functionality for armor stands.
 
 - Download from the offical spigot website: [https://www.spigotmc.org/resources/advanced-armor-stands.38513/](https://www.spigotmc.org/resources/advanced-armor-stands.38513/)
 - Usage and server statistics (_not representative yet, statistic was added 5 years after plugin release_): [https://bstats.org/plugin/bukkit/AdvancedArmorStands/13743](https://bstats.org/plugin/bukkit/AdvancedArmorStands/13743)
@@ -47,6 +47,7 @@ Just stand next to the armor stand you want to modify and type the command `/aa`
 <a name="depencies"></a>
 # Dependencies
 
+**!!Please note that this fork only supports Paper 1.19+.!!**
 This plugin was made for Spigot v.1.17 and later versions.
 
 The lastest Version `1.18.0` of this plugin requires java `17` or higher
