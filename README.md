@@ -14,6 +14,8 @@
 This is a plugin for Paper, adding more functionality for armor stands.
 
 - Download from the offical spigot website: [https://www.spigotmc.org/resources/advanced-armor-stands.38513/](https://www.spigotmc.org/resources/advanced-armor-stands.38513/)
+- Download fork from Github: [https://github.com/TanoMC/AdvancedArmorStands/releases/tag/v1.18.0-paper-1.19
+](https://github.com/TanoMC/AdvancedArmorStands/releases/tag/v1.18.0-paper-1.19)
 - Usage and server statistics (_not representative yet, statistic was added 5 years after plugin release_): [https://bstats.org/plugin/bukkit/AdvancedArmorStands/13743](https://bstats.org/plugin/bukkit/AdvancedArmorStands/13743)
 
 ### Contents
